@@ -4,7 +4,7 @@
 // License text available at https://opensource.org/licenses/Artistic-2.0
 
 var m = require('./init');
-var loopback = require('loopback');
+var loopback = require('loopbacknext');
 var assert = require('assert');
 var ApplicationCredential = m.ApplicationCredential;
 

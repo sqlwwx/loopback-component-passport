@@ -3,7 +3,7 @@
 // This file is licensed under the Artistic License 2.0.
 // License text available at https://opensource.org/licenses/Artistic-2.0
 
-var loopback = require('loopback');
+var loopback = require('loopbacknext');
 module.exports = require('../lib/index');
 
 // setup default data sources
